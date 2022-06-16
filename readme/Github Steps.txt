@@ -1,0 +1,21 @@
+git config --global user.email "prafful1711@gmail.com"
+git config --global init.defaultBranch master
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M prafful1711/master
+git remote add origin https://github.com/prafful-sinha17/Mern-Stack-Memories-App-TypeScript.git
+git push -u origin prafful1711/master
+
+Username:- psts1711
+Password:- macOS@10
+
+
+git init
+heroku git:remote -a stlouisexamapi
+heroku git:remote -a stlouisexam
+git add .
+git commit -am "make it better"
+git push heroku master
+
+heroku logs --tail

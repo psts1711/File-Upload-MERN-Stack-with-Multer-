@@ -1,0 +1,23 @@
+sudo yarn global add create-react-app --template typescript
+
+sudo yarn global add create-react-app
+
+create-react-app chatapp-ts --template typescript
+https://www.react-most-wanted.com/
+https://docs.rmuif.com/getting-started
+------------------------------------------------------
+
+npx create-react-app my-app --template typescript
+
+# or
+
+yarn create react-app my-app --template typescript
+
+npm install --save typescript @types/node @types/react @types/react-dom @types/jest
+
+# or
+
+yarn add typescript @types/node @types/react @types/react-dom @types/jest
+yarn --network-timeout 100000
+
+yarn add @material-ui/core @material-ui/icons typescript @types/node @types/react react-dom @types/react-dom @types/jest react-router-dom @types/react-router-dom redux @types/redux react-redux @types/react-redux
